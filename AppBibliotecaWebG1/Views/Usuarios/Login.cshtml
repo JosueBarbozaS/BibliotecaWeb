@@ -1,0 +1,52 @@
+﻿@* Es muy importante indicar el objeto modelo *@
+
+@model AppBibliotecaWebG1.Models.Usuario
+
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Login</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4"></div>
+
+        @* Aquí se usa el formulario para la autenticación *@
+        <div class="col-sm-4">
+            <form asp-action="Login" asp-controller="Usuarios" id="FormularioLogin">
+                @if (TempData["Mensaje"] != null)
+                {
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                        <strong>Error!</strong> @TempData["Mensaje"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+                @* Solicitud del email *@
+                <div class="form-group">
+                    <label asp-for="Email" class="form-label">Email</label>
+                    <input asp-for="Email" class="form-control" placeholder="jorge@Domain.com" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                @* solicitud del password *@
+                <div class="form-group">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                    ¿No tienes una cuenta?
+                    <a asp-controller="Usuarios" asp-action="CrearCuenta">Cree una..</a>
+                </div>
+                @* Botón encargado de ejecutar el post del formulario *@
+                <div class="form-group">
+                    <div class="col-auto">
+                        <input type="submit" value="Aceptar" class="btn btn-primary" />
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="col-sm-4"></div>
+
+    </div>
+</div>

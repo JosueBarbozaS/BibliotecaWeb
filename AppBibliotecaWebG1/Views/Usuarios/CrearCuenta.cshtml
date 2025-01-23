@@ -1,0 +1,58 @@
+﻿
+@model AppBibliotecaWebG1.Models.Usuario
+
+@{
+    ViewData["Title"] = "CrearCuenta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+
+        </div>
+        <div class="col-sm-4">
+            <form asp-controller="Usuarios" asp-action="CrearCuenta" class="Formularios" >
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <h1>Crear Cuenta</h1>
+
+                @*Se validad si la variable temporal mensaje tiene datos*@
+                @if (TempData["Mensaje"] != null)
+                {
+                    @*Se muestra un Alert con el mensaje de error *@
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                        <strong>Error!</strong> @TempData["Mensaje"].
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+
+                @* Aquí solicitamos el email del usuario *@
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" placeholder="jorge@Domain.com" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                @* Aquí solicitamos el nombre completo del usuario *@
+                <div class="form-group">
+                    <label asp-for="NombreCompleto" class="form-label">Nombre completo</label>
+                    <input asp-for="NombreCompleto" class="form-control" placeholder="Nombre apellidos" />
+                    <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+                </div>
+
+                @* Botón encargado de ejecutar el post del formulario *@
+                <div class="form-group">
+                    <div class="col-auto mt-3">
+                        <input type="submit" value="Aceptar" class="btn btn-primary" />
+                    </div>
+                </div>
+
+            </form>
+        </div>
+        <div class="col-sm-4">
+
+        </div>
+    </div>
+</div>

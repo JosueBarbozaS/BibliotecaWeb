@@ -1,0 +1,50 @@
+﻿@* aquí se indica el objeto modelo que utiliza el formulario *@
+@model AppBibliotecaWebG1.Models.SeguridadRestablecer
+
+@{
+    ViewData["Title"] = "Restablecer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4"></div>
+
+        @* Aquí se construye el formulario para restablecer la clave *@
+        <div class="col-sm-4">
+            <form asp-action="Restablecer" asp-controller="Usuarios" >
+                <h1>Restablecer</h1>
+                <div asp-validation-summary="ModelOnly" class="text-danger">
+
+                </div>
+                @* solicitud de la contraseña temporal *@
+                <div class="form-group">
+                    <label asp-for="Password" class="form-label">Contraseña temporal</label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                @* solicitud de la nueva contraseña *@
+              <div class="form-group">
+                  <label asp-for="NewPassword" class="form-label">Nueva contraseña</label>
+                  <input asp-for="NewPassword" class="form-control"/>
+                  <span asp-validation-for="NewPassword" class="text-danger"></span>
+              </div>
+              @* solicitud para confirmar contraseña *@
+              <div class="form-group">
+                  <label asp-for="Confirmar" class="form-label">Confirmar</label>
+                  <input asp-for="Confirmar" class="form-control" />
+                  <span asp-validation-for="Confirmar" class="text-danger"></span>
+              </div>
+
+              @* Botón encargado de realizar el post del formulario *@
+              <div class="form-group">
+                  <input type="submit" value="Save" class="btn btn-primary" />
+              </div>
+            </form>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+</div>
+

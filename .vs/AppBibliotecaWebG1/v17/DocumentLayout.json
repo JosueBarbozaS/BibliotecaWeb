@@ -1,0 +1,570 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\wwwroot\\css\\img\\estructura_datos_iii_captura_de_pantalla_2024-02-15_214811.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\wwwroot\\css\\img\\estructura_datos_iii_captura_de_pantalla_2024-02-15_214811.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_libro3.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_libro3.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_libro2.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_libro2.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_libro1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_libro1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_ii_captura_de_pantalla_2024-02-09_132935.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\wwwroot\\css\\img\\lenguajes_de_programaci\u00F3n_ii_captura_de_pantalla_2024-02-09_132935.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\dbcontextbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\dbcontextbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\gometaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\gometaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\persona\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\persona\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\tipocambioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\tipocambioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\usuarios\\crearcuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\usuarios\\crearcuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\usuarios\\restablecer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\usuarios\\restablecer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|c:\\users\\jabs0\\onedrive\\desktop\\projectsportafolio\\appbibliotecawebg1\\appbibliotecawebg1\\appbibliotecawebg1\\views\\gallery\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E6EE29-84FA-42FE-86E0-F675847EC945}|AppBibliotecaWebG1\\AppBibliotecaWebG1.csproj|solutionrelative:appbibliotecawebg1\\views\\gallery\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 384,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Email.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\Email.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T01:24:42.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estructura_Datos_III_Captura_de_pantalla_2024-02-15_214811.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [631x343, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Estructura_Datos_III_Captura_de_pantalla_2024-02-15_214811.png",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Estructura_Datos_III_Captura_de_pantalla_2024-02-15_214811.png",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Estructura_Datos_III_Captura_de_pantalla_2024-02-15_214811.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [631x343, 32 bits, PNG]",
+              "RelativeToolTip": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Estructura_Datos_III_Captura_de_pantalla_2024-02-15_214811.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [631x343, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-22T22:21:33.924Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - PNG [631x343, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Controllers\\GalleryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:47:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAywE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:07:12.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Libros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Edit.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Libros\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T18:51:03.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:52:33.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAiwOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:47:45.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Libro.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\Libro.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:24:29.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:26:48.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAABMBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:11:55.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\appsettings.json",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\appsettings.json",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\appsettings.json",
+              "RelativeToolTip": "AppBibliotecaWebG1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T21:54:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lenguajes_de_programaci\u00F3n_libro2.jpeg",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro2.jpeg",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro2.jpeg",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro2.jpeg",
+              "RelativeToolTip": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro2.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-22T22:21:46.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lenguajes_de_programaci\u00F3n_libro3.jpeg",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro3.jpeg",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro3.jpeg",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro3.jpeg",
+              "RelativeToolTip": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_libro3.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-22T22:21:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Libros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Details.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Libros\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T00:55:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lenguajes_de_programaci\u00F3n_Libro1.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [199x254, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_Libro1.jpg",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_Libro1.jpg",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_Libro1.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [199x254, 24 bits, JPG]",
+              "RelativeToolTip": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_Libro1.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [199x254, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-22T22:21:40.29Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [199x254, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lenguajes_de_programaci\u00F3n_II_Captura_de_pantalla_2024-02-09_132935.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [677x383, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_II_Captura_de_pantalla_2024-02-09_132935.png",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_II_Captura_de_pantalla_2024-02-09_132935.png",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_II_Captura_de_pantalla_2024-02-09_132935.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [677x383, 32 bits, PNG]",
+              "RelativeToolTip": "AppBibliotecaWebG1\\wwwroot\\css\\img\\Lenguajes_de_programaci\u00F3n_II_Captura_de_pantalla_2024-02-09_132935.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [677x383, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-22T22:21:37.446Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - PNG [677x383, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbContextBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\DbContextBiblioteca.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\DbContextBiblioteca.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\DbContextBiblioteca.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\DbContextBiblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:25:28.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TipoCambioAPI.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\TipoCambioAPI.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\TipoCambioAPI.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\TipoCambioAPI.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\TipoCambioAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:46:04.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Persona.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:25:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Program.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Program.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Program.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:55:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:25:48.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Persona\\Crear.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Persona\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Persona\\Crear.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Persona\\Crear.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T06:32:39.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GoMetaService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\GoMetaService.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\GoMetaService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\GoMetaService.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\GoMetaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:24:51.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Libros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Delete.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Libros\\Delete.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T18:32:12.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CrearCuenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Usuarios\\CrearCuenta.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Usuarios\\CrearCuenta.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Usuarios\\CrearCuenta.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Usuarios\\CrearCuenta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:36:13.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T00:55:29.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppBibliotecaWebG1\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T22:23:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Restablecer.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Usuarios\\Restablecer.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Usuarios\\Restablecer.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Usuarios\\Restablecer.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Usuarios\\Restablecer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:41:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Usuarios\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Usuarios\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Usuarios\\Login.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Usuarios\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:39:15.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:30:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Gallery\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWebG1\\Views\\Gallery\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\ProjectsPortafolio\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\AppBibliotecaWebG1\\Views\\Gallery\\Gallery.cshtml",
+              "RelativeToolTip": "AppBibliotecaWebG1\\Views\\Gallery\\Gallery.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T23:16:33.809Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

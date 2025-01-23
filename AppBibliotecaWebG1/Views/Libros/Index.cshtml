@@ -1,0 +1,123 @@
+﻿@model IEnumerable<AppBibliotecaWebG1.Models.Libro>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ISBN)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Editorial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioVenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaPublicacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ISBN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Editorial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+
+            <td>
+              @*   @Html.DisplayFor(modelItem => item.Foto) *@
+
+                    
+                    @{
+                        //Variable para controlar el ID del modal, es un modal para cada libro
+                        var IdModal = "L" + item.ISBN;
+                    }
+
+                    <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target=#@IdModal>
+                        Ver
+                    </button>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id=@IdModal tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLabel">Libro @item.Titulo</h5>
+ 
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body text-center">
+                                    <h5>Tipo cambio actual ¢ @AppBibliotecaWebG1.Controllers.HomeController.tipoCambio.venta.ToString("F")<br></h5>
+                                    
+                                    <img src=@item.Foto class="img-fluid"  />
+
+                                    @* aquí se realiza un pequeño calculo del precio del libro en dolares *@
+                                    @{
+                                        decimal precioDolares = (item.PrecioVenta / 
+                                            AppBibliotecaWebG1.Controllers.HomeController.tipoCambio.venta);
+                                    }
+
+                                    <h3>Precio $ @precioDolares.ToString("F")</h3>
+
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaPublicacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+
+                @Html.ActionLink("Edit", "Edit", new {  id=item.ISBN  },new{@class="btn btn-info"}) |
+                
+
+                @Html.ActionLink("Details", "Details", new {  id=item.ISBN  },new{@class="btn btn-secondary"}) |
+                
+
+                @Html.ActionLink("Delete", "Delete", new {  id=item.ISBN },new{@class="btn btn-warning"})
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

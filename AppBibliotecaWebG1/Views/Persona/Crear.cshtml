@@ -1,0 +1,51 @@
+﻿@model AppBibliotecaWebG1.Models.Persona
+@{
+    ViewData["Title"] = "Buscar Persona";
+}
+
+<h2>Buscar Persona por Cédula</h2>
+
+<form asp-action="Crear" method="post">
+    <div class="form-group">
+        <label for="cedula">Cédula</label>
+        <input type="text" class="form-control" id="cedula" name="cedula" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+@if (Model != null)
+{
+    <h3>Detalles de la Persona</h3>
+    <div>
+        <label>Cédula:</label>
+        <span>@Model.Cedula</span>
+    </div>
+    
+    <div>
+        <label>Primer Nombre:</label>
+        <span>@Model.PrimerNombre</span>
+    </div>
+    <div>
+        <label>Segundo Nombre:</label>
+        <span>@Model.SegundoNombre</span>
+    </div>
+    <div>
+        <label>Primer Apellido:</label>
+        <span>@Model.PrimerApellido</span>
+    </div>
+    <div>
+        <label>Segundo Apellido:</label>
+        <span>@Model.SegundoApellido</span>
+    </div>
+}
