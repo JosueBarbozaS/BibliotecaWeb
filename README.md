@@ -58,36 +58,6 @@ El correo enviado incluye:
 - Navegador web actualizado.
 - **SMTP** configurado para el envío de correos.
 
-## 🚀 Cómo Ejecutar el Proyecto
-
-1. **Clonar el Repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/AppBibliotecaWebG1.git
-   ```
-2. **Configurar la Base de Datos**:
-   - Edita la conexión en `appsettings.json` para que apunte a tu servidor SQL:
-     ```json
-     "ConnectionStrings": {
-       "DefaultConnection": "Server=tu_servidor;Database=BibliotecaDB;User Id=usuario;Password=contraseña;"
-     }
-     ```
-
-3. **Restaurar Paquetes NuGet**:
-   ```bash
-   dotnet restore
-   ```
-
-4. **Ejecutar Migraciones**:
-   ```bash
-   dotnet ef database update
-   ```
-
-5. **Iniciar la Aplicación**:
-   ```bash
-   dotnet run
-   ```
-
-6. Abre tu navegador y accede a `http://localhost:5000`.
 
 ## 📂 Estructura del Proyecto
 
